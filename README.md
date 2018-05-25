@@ -7,6 +7,9 @@
 * Giovanni Vicario
 * Marco Vallim
 * Suelen Maia
+
+![Imagem Protótipo da tela](https://github.com/KitoVallim/oic_iot_mackenzie-projeto-5K/blob/master/projeto.png)
+
 _______________________________________
 Obs:
 
