@@ -10,9 +10,14 @@
 
 ![Imagem Protótipo da tela](https://github.com/KitoVallim/oic_iot_mackenzie-projeto-5K/blob/master/projeto.png)
 
-### Demonstração:
+### Demonstração: 
 
+## ** Link para ver no Youtube: **
 https://youtu.be/O8Vk2gq1E5c
+
+## ** Link para download (via repositório): ** 
+https://github.com/KitoVallim/oic_iot_mackenzie-projeto-5K/blob/master/docs/2-hardware/img_hardware/Demo_Video.mp4
+
 
 _______________________________________
 Obs:
